@@ -1,4 +1,5 @@
 ## NextJS Interview Questions & Answers
+## Khaled Frayji - TechTalks
 
 :rocket: This repository aimed to contains 500 nextjs interview questions & answers with exmample.
 
